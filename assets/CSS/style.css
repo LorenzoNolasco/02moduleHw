@@ -48,6 +48,7 @@ header h1 {
 
 .subtitleAndPhoto {
   text-align: right;
+  background-image: url("/assets/Images/mark-cruz-VW2oU66mwbc-unsplash.jpg");
 }
 
 #asideAboutMe
@@ -88,24 +89,13 @@ article {
   flex-wrap: wrap;
   justify-content: center;
   border: 5px solid black;
-  background-color: white;
-  color: blue;
-  min-height: 150px;
-  max-height: 150px;
+  color: purple;
+  height: 150px;
   align-items: flex-end;
   padding: 0 0 20px 0;
-  margin: 0.5em;
+  margin: 10px 10px 0px 400px;
   text-decoration: none;
-  background-blend-mode: soft-light;
-  background-size: 150%;
-  transition: all 0.5s;
-  font-size: 0.9rem;
   }
-  .flex-item {
-    flex-basis: calc(50% - 1em);
-    display: flex;
-  }
-
 
 footer {
   background-color: #e5d3b8;
